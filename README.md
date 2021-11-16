@@ -10,4 +10,4 @@ maintain real-time capability, model sizes should be as small as possible, while
 be deployed on best-cost hardware of traction drives in an automotive environment, where lean computation and lightweight implementation is key and crucial.
 
 Specifically, the problem to solve is: 
-• Accurately predict the rotor temperature given the collected data with a model the size of which is as small as possible
+- Accurately predict the rotor temperature given the collected data with a model the size of which is as small as possible
